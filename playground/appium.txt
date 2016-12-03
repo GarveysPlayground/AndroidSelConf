@@ -1,0 +1,9 @@
+[caps]
+platformName = "ANDROID"
+deviceName = "android"
+app = "C:\GitRepos\appium-workshop\playground\app-debug.apk"
+
+[appium_lib]
+sauce_username = false
+sauce_access_key = false
+wait = 30
